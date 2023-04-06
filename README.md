@@ -8,4 +8,3 @@
 
 ## Описание папок 
 **project_rating** - папка исходников для расчёта рейтинга по всем источника  
-**old_recourses** - папка исходников для расчёта больше неауктальных источников ([Classroom ](https://classroom.google.com/) и [Trello ](https://trello.com/))
